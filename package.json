@@ -1,0 +1,19 @@
+{
+  "name": "star",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuailingmin/star.git"
+  },
+  "author": "star",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuailingmin/star/issues"
+  },
+  "homepage": "https://github.com/kuailingmin/star#readme"
+}
